@@ -5,10 +5,11 @@
 - Check [this](./BOOKS.MD) short list if you like reading textbooks.
 - Here are [some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document.
 - If there's anything you think should be included here, you can [submit an issue](https://github.com/mithi/robotics-coursework/issues/new), I'll check it out.
+- ♥️: Mithi's Favorite, 🌱: Fundamentals, 💸: Requires Money, 📺: Videos
 
 # Series of Courses
 
-- [♥️🌱 Robot Academy][series1], Peter Corke, Queensland University of Technology
+- ♥️🌱 [Robot Academy][series1], Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
 - [Coursera: Robotics](https://www.coursera.org/search?query=robotics)
 - [EdX: Robotics](https://www.edx.org/search?q=robotics)
@@ -27,7 +28,7 @@
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 # Single Courses
-- [🌱 Math Fundamentals for Robotics](https://www.cs.cmu.edu/~me/811/), [Assignments](https://github.com/interesting-courses/16-811/tree/master), Michael Erdmann, Carnegie Mellon University
+- 🌱 [Math Fundamentals for Robotics](https://www.cs.cmu.edu/~me/811/), [Assignments](https://github.com/interesting-courses/16-811/tree/master), Michael Erdmann, Carnegie Mellon University
 - [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
 - [Introduction to Robotics][course28], Burton Ma, York University 
 - [NPTEL: Introduction to Robotics][course32], IIT Madras
@@ -51,8 +52,8 @@
 - [📺 SLAM Lectures][course18], Clause Brenne, Leibniz University Hannover
 - [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
 - [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
-- [🌱 Deep Learning for Robotics](https://16-884.github.io/), Deepak Pathak, Alex Li, The Carnegie Mellon University Robotics Institute
-- [🌱 CS 6758: Deep Learning for Robotics](https://www.cs.cornell.edu/courses/cs6758/2024fa/), Cornell University, Kuan Fang, Yunhao Cao
+- 🌱 [Deep Learning for Robotics](https://16-884.github.io/), Deepak Pathak, Alex Li, The Carnegie Mellon University Robotics Institute
+- 🌱 [CS 6758: Deep Learning for Robotics](https://www.cs.cornell.edu/courses/cs6758/2024fa/), Cornell University, Kuan Fang, Yunhao Cao
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
 - [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
 - EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
@@ -118,8 +119,8 @@
 - [📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
 - [Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
 - [DIY Walkers][h10], Ben Vagle
-- [🌱 PythonRobotics][h25], Atsushi Sakai
-- [🌱 AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
+- 🌱 [PythonRobotics][h25], Atsushi Sakai
+- 🌱 [AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
 - [CppRobotics](https://github.com/onlytailei/CppRobotics)
 - [Spot Mini Mini][h33] + [Open Quadruped][h34]
 - [Duckie Town: Minimal Autonomy Platforms][h35]
@@ -172,7 +173,7 @@
 - [Hackertools: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), MIT Open Learning
 - Algorithms and Data Structures, C++, Python
 - [Intro to Deep Learning](https://mithi.github.io/deep-blueberry)
-- [🌱 Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2024sp/#References), Kilian Q. Weinberger, Karthik Sridharan, Cornell University
+- 🌱 [Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2024sp/#References), Kilian Q. Weinberger, Karthik Sridharan, Cornell University
 - ➡️ [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
 # Related Lists

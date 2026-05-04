@@ -34,6 +34,7 @@
 - [MEAM 620: Robotics][course25], University of Pennsylvania
 - [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
 - [Programming for Robotics - ROS][course44], Edo Jelavić, Tom Lankhorst, Marco Hutter, ETHZurich
+- [TRS: An Open-source Recipe for Teaching/Learning Robotics with a Simulator](https://ulgrobotics.github.io/trs/index.html), The University of Liège, Renaud Detry
 - [Real World Robotics](https://rwr.ethz.ch/), ETHZurich
 - [Advanced Robotics (CS 287)][course19], Pieter Abbeel, University of California at Berkeley
 - [📺 Applied Robot Design (CS235)][course23], Reuben Brewer, Standford University
@@ -59,6 +60,7 @@
 - EdX: [Robotics Foundation II - Robot Control][course41], Bruno Siciliano, Università degli Studi di Napoli Federico II
 - EdX: [Robot Development][course42], Angelo Cangelosi, Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
+- 💸 [Probabilistic Robotics](http://www.probabilistic-robotics.org/), Sebastian Thrun, Stanford AI Lab
 - 💸 Udacity: [Intro to Self-Driving Cars Nanodegree][series6b]
 - 💸 Udacity: [Self-Driving Car Nanodegree][series6]
 - 💸 Udacity: [Flying Car Nanodegree][series7]
@@ -107,13 +109,15 @@
 [course44]: https://rsl.ethz.ch/education-students/lectures/ros.html
 
 # Hands-on and Blogs
+- [Hugging Face: LeRobot](https://github.com/huggingface/lerobot)
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30] | [In Real Life][h36]
 - [♥️ Akiyuki Kawaguchi][h19]
 - [📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
 - [Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
 - [DIY Walkers][h10], Ben Vagle
-- [PythonRobotics][h25], Atsushi Sakai
-- [AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
+- [♥️ PythonRobotics][h25], Atsushi Sakai
+- [♥️ AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
+- [CppRobotics](https://github.com/onlytailei/CppRobotics)
 - [Spot Mini Mini][h33] + [Open Quadruped][h34]
 - [Duckie Town: Minimal Autonomy Platforms][h35]
 - [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
@@ -121,7 +125,7 @@
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [Jetson Hacks][h6] | [💸 Racecar RJ][h7]
 - [Prof Daniela Rus][h26] | [Sarah Tang][h28] | [Beatty Robotics][h18]
-- [Andrew Dahdouh][h11] | [Oscar Liang][h12] | [Maurice Rahme][h31]
+- [Andrew Dahdouh][h11] | [Oscar Liang][h12] | [Maurice Rahme][h31] | [Richard Kelley](https://richardkelley.io/about/)
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -157,23 +161,15 @@
 [h37]: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
 
 # Useful Concepts and Tools
-- Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
-- Control Systems: [📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4] | [Tyler Veness][tool5]
-- CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
-- [Hackertools: The Missing Semester of Your CS Education][tools15], MIT Open Learning
+- Kalman Filters: [Roger R. Labbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/) | [Balzer82][tools11]
+- Control Systems: [📺 Steve Brunton](https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) | [📺 Brian Douglas](https://www.youtube.com/user/ControlLectures/featured) | [♥️ Tyler Veness](https://github.com/calcmogul/controls-engineering-in-frc)
+- [Mechanical Design 101](https://mechanicaldesign101.com/)
+- [structurefree: Engineering Dynamics](https://structurefree.blogspot.com/p/engineering-dynamics.html)
+- 💸 CAD Tools: [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) | [OnShape](https://www.onshape.com/)
+- [Hackertools: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), MIT Open Learning
 - Algorithms and Data Structures, C++, Python
-- [Deep Learning][tools1]
-- [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
-
-[tools1]: https://mithi.github.io/deep-blueberry/
-[tools2]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
-[tools3]: https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
-[tools4]: https://www.youtube.com/user/ControlLectures/featured
-[tools10]: https://www.autodesk.com/products/fusion-360/students-teachers-educators
-[tools11]: https://github.com/balzer82/Kalman
-[tools12]: https://www.onshape.com/
-[tool5]: https://github.com/calcmogul/controls-engineering-in-frc
-[tools15]: https://missing.csail.mit.edu/
+- [Deep Learning](https://mithi.github.io/deep-blueberry)
+- ➡️ [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
 # Related Lists
 | [Ahundt](https://github.com/ahundt/awesome-robotics)
@@ -190,22 +186,16 @@
 # Misc
 | [Adafruit](https://www.adafruit.com/search?q=robot)
 | [Instructables](https://www.instructables.com/search/?q=robot&projects=featured)
-| [Hackster][related2]
-| [Thingiverse][related3] 
+| [Hackster](https://www.hackster.io/search?i=projects&q=robot)
+| [Thingiverse](https://www.thingiverse.com/search?q=robot)
 | [Hackaday](https://hackaday.com/)
 | [Sparkfun](https://www.sparkfun.com/catalogsearch/result/?q=robot)
 | [Robotshop](https://www.robotshop.com/search?q=robot)
-| [Robotics Today][related5]
+| [Robotics Today](https://roboticstoday.github.io/)
 | [Reddit](https://www.reddit.com/r/robotics/)
 | [Youtube](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679)
 | [Planet GBC](http://www.planet-gbc.com/)
 | [Euro Bricks](https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/)
-
-
-[related2]: https://www.hackster.io/search?i=projects&q=robot
-[related3]: https://www.thingiverse.com/search?q=robot
-[related4]: https://www.robotshop.com/community/robot
-[related5]: https://roboticstoday.github.io/
-
+| [Weekly Robotics Newsletter](https://www.weeklyrobotics.com/)
 
 # [☕️](https://ko-fi.com/minimithi)

@@ -27,6 +27,7 @@
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 # Single Courses
+- [Math Fundamentals for Robotics](https://www.cs.cmu.edu/~me/811/), [Assignments](https://github.com/interesting-courses/16-811/tree/master), Michael Erdmann, Carnegie Mellon University
 - [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
 - [Introduction to Robotics][course28], Burton Ma, York University 
 - [NPTEL: Introduction to Robotics][course32], IIT Madras
@@ -50,6 +51,8 @@
 - [📺 SLAM Lectures][course18], Clause Brenne, Leibniz University Hannover
 - [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
 - [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
+- [Deep Learning for Robotics](https://16-884.github.io/), Deepak Pathak, Alex Li, The Carnegie Mellon University Robotics Institute
+- [CS 6758: Deep Learning for Robotics](https://www.cs.cornell.edu/courses/cs6758/2024fa/), Cornell University, Kuan Fang, Yunhao Cao
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
 - [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
 - EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
@@ -161,14 +164,15 @@
 [h37]: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
 
 # Useful Concepts and Tools
-- Kalman Filters: [Roger R. Labbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/) | [Balzer82][tools11]
+- Kalman Filters: [Roger R. Labbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/) | [Balzer82](https://github.com/balzer82/Kalman)
 - Control Systems: [📺 Steve Brunton](https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) | [📺 Brian Douglas](https://www.youtube.com/user/ControlLectures/featured) | [♥️ Tyler Veness](https://github.com/calcmogul/controls-engineering-in-frc)
 - [Mechanical Design 101](https://mechanicaldesign101.com/)
 - [structurefree: Engineering Dynamics](https://structurefree.blogspot.com/p/engineering-dynamics.html)
 - 💸 CAD Tools: [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) | [OnShape](https://www.onshape.com/)
 - [Hackertools: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), MIT Open Learning
 - Algorithms and Data Structures, C++, Python
-- [Deep Learning](https://mithi.github.io/deep-blueberry)
+- [Intro to Deep Learning](https://mithi.github.io/deep-blueberry)
+- [Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2024sp/#References)
 - ➡️ [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
 # Related Lists

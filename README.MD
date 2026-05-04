@@ -5,7 +5,7 @@
 - Check [this](./BOOKS.MD) short list if you like reading textbooks.
 - Here are [some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document.
 - If there's anything you think should be included here, you can [submit an issue](https://github.com/mithi/robotics-coursework/issues/new), I'll check it out.
-- ♥️: Mithi's Favorite, 🌱: Fundamentals, 💸: Requires Money, 📺: Videos
+- 🌱 Fundamental Knowledge (Curated), 💸 Requires Money, 📺 Videos, ♥️ Mithi's Bookmarks
 
 # Series of Courses
 
@@ -28,7 +28,7 @@
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 # Single Courses
-- 🌱 [Math Fundamentals for Robotics](https://www.cs.cmu.edu/~me/811/), [Assignments](https://github.com/interesting-courses/16-811/tree/master), Michael Erdmann, Carnegie Mellon University
+- 🌱 [Math Fundamentals for Robotics](https://www.cs.cmu.edu/~me/811/), ([Assignments](https://github.com/interesting-courses/16-811/tree/master)), Michael Erdmann, Carnegie Mellon University
 - [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
 - [Introduction to Robotics][course28], Burton Ma, York University 
 - [NPTEL: Introduction to Robotics][course32], IIT Madras
@@ -115,7 +115,7 @@
 # Hands-on and Blogs
 - [Hugging Face: LeRobot](https://github.com/huggingface/lerobot)
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30] | [In Real Life][h36]
-- [♥️ Akiyuki Kawaguchi][h19]
+- ♥️ [Akiyuki Kawaguchi][h19]
 - [📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
 - [Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
 - [DIY Walkers][h10], Ben Vagle

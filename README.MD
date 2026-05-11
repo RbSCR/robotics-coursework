@@ -53,7 +53,7 @@
 - [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
 - [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
 - 🌱 [Deep Learning for Robotics](https://16-884.github.io/), Deepak Pathak, Alex Li, The Carnegie Mellon University Robotics Institute
-- 🌱 [CS 6758: Deep Learning for Robotics](https://www.cs.cornell.edu/courses/cs6758/2024fa/), Cornell University, Kuan Fang, Yunhao Cao
+- 🌱 [CS 6758: Deep Learning for Robotics](https://www.cs.cornell.edu/courses/cs6758/2024fa/), Kuan Fang, Yunhao Cao, Cornell University
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
 - [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
 - EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
